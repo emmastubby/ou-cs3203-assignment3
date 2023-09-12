@@ -13,6 +13,7 @@ def sum_list(my_list):
         my_sum += num
     return my_sum
 
+# method to multiply list elements
 def mult_list(my_list):
     prod = 1
     for num in my_list:
